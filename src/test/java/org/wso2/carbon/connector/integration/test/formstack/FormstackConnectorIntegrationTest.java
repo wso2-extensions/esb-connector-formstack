@@ -46,7 +46,7 @@ public class FormstackConnectorIntegrationTest extends ConnectorIntegrationTestB
         esbRequestHeadersMap = new HashMap<String, String>();
         apiRequestHeadersMap = new HashMap<String, String>();
 
-        init("formstack-connector-1.0.1");
+        init("formstack-connector-1.0.2-SNAPSHOT");
         esbRequestHeadersMap.put("Accept-Charset", "UTF-8");
         esbRequestHeadersMap.put("Content-Type", "application/json");
         apiRequestHeadersMap.putAll(esbRequestHeadersMap);
