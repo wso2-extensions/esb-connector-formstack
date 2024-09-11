@@ -4,7 +4,7 @@
     "category": "Productivity Tools",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Formstack+Connector",
     "description": "The Formstack connector allows you to access the Formstack REST API Through WSO2 ESB.Formstack is an online form builder that enables users to create any type of online form, including surveys, contact forms, event registrations and order forms.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
